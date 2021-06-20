@@ -1,4 +1,4 @@
-# Company's contacts at logz.io (customer success engineer and account manager)
+### Company's contacts at logz.io (customer success engineer and account manager)
 
 This script accepts 'company_contacts.csv' file as an input with account id's on logz.io as a column.
 
