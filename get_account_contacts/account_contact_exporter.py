@@ -2,7 +2,7 @@ import requests
 import csv
 import sys
 
-API_TOKEN = 'dG9rOjk4ZDNkNzk1XzA4MzBfNDhkYV9hNTdjX2Q3YmEwZDk2M2JmNToxOjA='
+API_TOKEN = ''
 HEADERS = {'Authorization': 'Bearer ' + str(API_TOKEN), 'Accept': 'application/json'}
 PATH_TO_FILE = sys.argv[1]
 
