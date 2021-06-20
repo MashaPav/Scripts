@@ -4,11 +4,11 @@ This script accepts 'company_contacts.csv' file as an input with account id's on
 
 To Run this script, please do the following:
 
-### 1. Clone the script:
+#### 1. Clone the script:
 ```shell
 git clone 
 ```
-### 2. Insert the account id's to the account_id column and run the script:
+#### 2. Insert the account id's to the account_id column and run the script:
 ```shell
 python3 account_contact_exporter.py <<path_to_company_contacts.csv>>
 ```
