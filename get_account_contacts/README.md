@@ -1,6 +1,6 @@
 ### Company's contacts at logz.io (customer success engineer and account manager)
 
-This script gets data from Intercom API and accepts 'company_contacts.csv' file as an input with account id's on logz.io as a column.
+This script gets data from Intercom API and accepts 'company_contacts.csv' file as an input with account id's on logz.io as a column. Requires Python 3.8
 
 To Run this script, please do the following:
 
